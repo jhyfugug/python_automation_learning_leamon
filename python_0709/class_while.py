@@ -6,6 +6,15 @@
 # @File   ：class_while.py
 
 # while
+# usage
+# while expression:
+#   code block
+
+# 执行规律： 首先判断while后面的条件表达式是否成立
+# 如果为True，那就执行code block，执行完毕之后再进行判断
+# else, not access code block
+#  avoid code going to endless loop: add a variable control cycles
+
 # name = ["huahua", "ta", "pipi", "kaka"]
 #
 # username = input("请输入你的名字： \n")
