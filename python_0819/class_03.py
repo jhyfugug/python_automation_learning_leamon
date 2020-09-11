@@ -49,7 +49,7 @@ class RobotTwo():
 
     def walking_avoid_block(self):
         self.robotInfo()
-        print(self.name+" can avoid block")
+        print(self.name+" 、、can avoid block")
 
 # r2 = RobotTwo("1990", "xiaowang")
 # # r2.robotInfo()

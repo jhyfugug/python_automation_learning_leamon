@@ -22,3 +22,6 @@ U1 = User("xiaoming", "xiaohua")
 U1.describe_user()
 U1.greet_user()
 
+# 复习点：
+# 1、如果类里面有初始化函数  创建实例的时候 就必须要在实例里面传传递对应的参数
+# 2、调用函数的时候 实例调用    class_01   实例函数、类函数、静态函数

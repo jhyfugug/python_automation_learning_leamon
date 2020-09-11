@@ -8,7 +8,7 @@
 # a = [1, 2, 3, 4]
 # a.count()
 
-class Teacher():
+class Teacher:
     name = "华华"
     age = "25"
 
